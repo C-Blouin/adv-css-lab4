@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/* 
+			
+Lab 4 - Grid Layouts with Bootstrap
+
+Christopher Blouin
+
+*/
+
+/* Add padding to all of the elements with the corresponding IDs */
+#a, #b, #c, #d, #e, #f {				
+    padding: 1rem;
+}
+
+/* White font colouring for the slate background for contrast. */
+#a, #b, #f {
+    color: aliceblue;
+}
+
+/* Adjust background colours for each element with a corresponding ID */
+
+#a, #f {
+    background-color: #242424;
+}
+
+#b {
+    background-color: #333333;
+}
+
+#c {
+    background-color: #fdc36d;
+}
+
+#d {
+    background-color: #ffcf86;
+}
+
+#e {
+    background-color: #fdd9a3;
+}
